@@ -1,0 +1,429 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "24",
+      "name": "Beer Bottle",
+      "category": [
+        "Filler Item"
+      ],
+      "filler": true
+    },
+    {
+      "count": "48",
+      "name": "Cigarette",
+      "category": [
+        "Filler Item"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Episode 1: Awake - Unlock",
+      "category": [
+        "Episode Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": "7",
+      "name": "Memory of William",
+      "category": [
+        "Memories"
+      ],
+      "progression": true
+    },
+    {
+      "count": "25",
+      "name": "Memory of Max",
+      "category": [
+        "Memories"
+      ],
+      "progression": true
+    },
+    {
+      "count": "25",
+      "name": "Memory of Rachel",
+      "category": [
+        "Memories"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Desire to Drink",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wad of Cash",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dime Bag",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Firewalk T-Shirt",
+      "category": [
+        "Episode 1: Awake - Clothing"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chloe's Phone",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Joyce's Purse",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "David's Keys",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "David's Socket Wrench Set",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Training Ground",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Prison Camp",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Warlord's Tent",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pommel Strike",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Callamastia The Barbarian",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Elamon The Wizard",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Duurgaron the Unscarred",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Knee Slam",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fatal Cleave",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Brutal Punch",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Annihilation Strike",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Wrathful Rush",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blade Runner: Director's Cut",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Elamon's Potion",
+      "category": [
+        "Episode 1: Awake - D&D"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Rachel's Belt",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Episode Complete",
+      "category": [
+        "Episode Complete"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rachel's Nail File",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dedication Plate",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Red Wine",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Baseball Bat",
+      "category": [
+        "Episode 1: Awake - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": "100",
+      "name": "Polaroid Photo",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Episode 1: Victory",
+      "category": [
+        "Episode Victories"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Episode 2 Unlock",
+      "category": [
+        "Episode Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Expelled/Suspension Notice",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Car Battery",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Floorboard Cover",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Torn Seat Cover",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colored Bulb",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rachel's Duffel Bag",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Beanie",
+      "category": [
+        "Episode 2: Brave New World - Clothing"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Frank's Notebook",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Samuel's Keys",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Padlock Combination 1227",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Money Envelop",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ariel Outfit",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rachel's Bracelet",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Plate",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Episode 2 Victory",
+      "category": [
+        "Episode Victories"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Glass",
+      "category": [
+        "Episode 2: Brave New World - Items"
+      ],
+      "progression": true
+    }
+  ]
+}

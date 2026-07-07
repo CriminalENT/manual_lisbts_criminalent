@@ -1,0 +1,154 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Mixtape Mode": {
+    "starting": true,
+    "connects_to": [
+      "Old Mill - Exterior"
+    ],
+    "requires": ""
+  },
+  "Old Mill - Exterior": {
+    "connects_to": [
+      "Old Mill - Interior"
+    ],
+    "requires": "|Episode 1: Awake - Unlock|"
+  },
+  "Old Mill - Interior": {
+    "connects_to": [
+      "Price House - Upstairs"
+    ],
+    "requires": "|Episode 1: Awake - Unlock|"
+  },
+  "Price House - Upstairs": {
+    "connects_to": [
+      "Price House - Downstairs"
+    ],
+    "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash| and |Dime Bag|"
+  },
+  "Price House - Downstairs": {
+    "connects_to": [
+      "Dream Sequence #1"
+    ],
+    "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash| "
+  },
+  "Dream Sequence #1": {
+    "connects_to": [
+      "School Campus"
+    ],
+    "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+  },
+  "School Campus": {
+    "connects_to": [
+      "School Drama Lab"
+    ],
+    "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+  },
+  "School Drama Lab": {
+    "connects_to": [
+      "Train"
+    ],
+    "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut|"
+  },
+  "Train": {
+    "connects_to": [
+      "Overlook"
+    ],
+    "requires": ""
+  },
+  "Overlook": {
+    "connects_to": [
+      "Junkyard"
+    ],
+    "requires": ""
+  },
+  "Junkyard": {
+    "connects_to": [
+      "Dream Sequence"
+    ],
+    "requires": ""
+  },
+  "Dream Sequence #2": {
+    "connects_to": [
+      "Junkyard - Night"
+    ],
+    "requires": ""
+  },
+  "Junkyard - Night": {
+    "connects_to": [
+      "Overlook - Night"
+    ],
+    "requires": ""
+  },
+  "Overlook - Night": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Episode Victories": {
+    "connects_to": [],
+    "requires": "|@Episode Completions|"
+  },
+  "Principal's Office": {
+    "connects_to": [
+      "Parking Lot"
+    ],
+    "requires": "|Episode 2 Unlock|"
+  },
+  "Parking Lot": {
+    "connects_to": [
+      "Junkyard"
+    ],
+    "requires": ""
+  },
+  "Dream Sequence": {
+    "connects_to": [
+      "Junkyard - Later"
+    ],
+    "requires": ""
+  },
+  "Junkyard - Later": {
+    "connects_to": [
+      "Frank's RV"
+    ],
+    "requires": ""
+  },
+  "Frank's RV": {
+    "connects_to": [
+      "Dormitories"
+    ],
+    "requires": ""
+  },
+  "Dormitories": {
+    "connects_to": [
+      "Boy's Dormitories"
+    ],
+    "requires": ""
+  },
+  "Boy's Dormitories": {
+    "connects_to": [
+      "Campus - Backstage"
+    ],
+    "requires": ""
+  },
+  "Campus - Backstage": {
+    "connects_to": [
+      "The Tempest"
+    ],
+    "requires": ""
+  },
+  "The Tempest": {
+    "connects_to": [
+      "Neighborhood"
+    ],
+    "requires": ""
+  },
+  "Neighborhood": {
+    "connects_to": [
+      "Amber House"
+    ],
+    "requires": ""
+  },
+  "Amber House": {
+    "connects_to": [],
+    "requires": ""
+  }
+}

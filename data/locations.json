@@ -1,0 +1,1440 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "category": [
+        "Mixtape Mode"
+      ],
+      "requires": "|Memory of William:5|",
+      "name": "Burn It Down - Daughter",
+      "region": "Mixtape Mode",
+      "place_item": [
+        "Episode 1: Awake - Unlock"
+      ]
+    },
+    {
+      "name": "No Care - Daughter",
+      "region": "Mixtape Mode",
+      "victory": false,
+      "category": [
+        "Mixtape Mode"
+      ],
+      "requires": "",
+      "place_item": [
+        "Memory of William"
+      ]
+    },
+    {
+      "name": "Youth - Daughter",
+      "region": "Mixtape Mode",
+      "category": [
+        "Mixtape Mode"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Departure - Daughter",
+      "region": "Mixtape Mode",
+      "category": [
+        "Mixtape Mode"
+      ],
+      "requires": "",
+      "place_item": [
+        "Memory of William"
+      ]
+    },
+    {
+      "name": "Glass - Daughter",
+      "region": "Mixtape Mode",
+      "category": [
+        "Mixtape Mode"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Start",
+      "region": "Old Mill - Exterior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock|"
+    },
+    {
+      "region": "Old Mill - Exterior",
+      "name": "Betting Stub",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock|"
+    },
+    {
+      "name": "Ponder The Campfire",
+      "region": "Old Mill - Exterior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock|"
+    },
+    {
+      "name": "Not a Meth Lab!/Free Candy!",
+      "region": "Old Mill - Exterior",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock|"
+    },
+    {
+      "name": "Listen Through The Door",
+      "region": "Old Mill - Exterior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock|",
+      "place_item": [
+        "Memory of Max"
+      ]
+    },
+    {
+      "name": "Observe The Floral Bike",
+      "region": "Old Mill - Exterior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock|"
+    },
+    {
+      "region": "Old Mill - Exterior",
+      "name": "Backtalk The Bouncer",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock|"
+    },
+    {
+      "region": "Old Mill - Exterior",
+      "name": "Enter The Old Mill",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2|"
+    },
+    {
+      "name": "Pet The Pitbull",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2|"
+    },
+    {
+      "name": "Termination Notice",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2|"
+    },
+    {
+      "name": "Evil Eye/Spin",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2|"
+    },
+    {
+      "name": "Take a Beer",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Desire to Drink|"
+    },
+    {
+      "name": "Bump into Skeevy Guys",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Desire to Drink|"
+    },
+    {
+      "name": "Steal Firewalk T-Shirt",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2|"
+    },
+    {
+      "name": "Steal The Money/Leave It",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2|"
+    },
+    {
+      "name": "Buy From Frank",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash|"
+    },
+    {
+      "name": "Stare at the Deer Head",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2|"
+    },
+    {
+      "region": "Old Mill - Interior",
+      "name": "Head Upstairs and Jam Out",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash|"
+    },
+    {
+      "region": "Old Mill - Interior",
+      "name": "Insult/Apologize/Walk Away",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash|"
+    },
+    {
+      "name": "Attack or Run",
+      "region": "Old Mill - Interior",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash|",
+      "place_item_category": [
+        "Memories"
+      ]
+    },
+    {
+      "region": "Price House - Upstairs",
+      "name": "Wake and Bake",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "name": "Look at Polaroid/Journal",
+      "region": "Price House - Upstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:2| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "region": "Price House - Upstairs",
+      "name": "\"Improve\" Periodic Table",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "region": "Price House - Upstairs",
+      "name": "100% Of The Shots/",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "region": "Price House - Upstairs",
+      "name": "Look at Pirate Power CD",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "region": "Price House - Upstairs",
+      "name": "Trash Report Card",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "region": "Price House - Upstairs",
+      "name": "Get Dressed",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "region": "Price House - Upstairs",
+      "name": "Call Chloe's Cell",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "name": "Place Family Photo",
+      "region": "Price House - Upstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "name": "Observe Engagement Ring",
+      "region": "Price House - Upstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "name": "Collect Chloe's Phone",
+      "region": "Price House - Upstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag|"
+    },
+    {
+      "name": "Collect Mom's Purse",
+      "region": "Price House - Upstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone|"
+    },
+    {
+      "name": "Go Downstairs",
+      "region": "Price House - Upstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse|"
+    },
+    {
+      "region": "Price House - Downstairs",
+      "name": "Place Mom's Purse on Table",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse|"
+    },
+    {
+      "name": "Shake Snowglobe",
+      "region": "Price House - Downstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse|"
+    },
+    {
+      "region": "Price House - Downstairs",
+      "name": "Be Understanding/Say What You Feel",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse|"
+    },
+    {
+      "region": "Price House - Downstairs",
+      "name": "Collect David's Keys",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse|"
+    },
+    {
+      "region": "Price House - Downstairs",
+      "name": "Check The Mail",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys|"
+    },
+    {
+      "region": "Price House - Downstairs",
+      "name": "Collect David's Socket Wrench Set",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys|"
+    },
+    {
+      "region": "Price House - Downstairs",
+      "name": "Intruder/Box of Dicks",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set|"
+    },
+    {
+      "name": "Hand Over The Socket Wrench Set",
+      "region": "Price House - Downstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set|"
+    },
+    {
+      "name": "Fist Bump/Leave Step-Douche Hanging",
+      "region": "Price House - Downstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set|"
+    },
+    {
+      "name": "Shut. This. Down./Ignore and Endure",
+      "region": "Price House - Downstairs",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set|",
+      "place_item": [
+        "Memory of William"
+      ]
+    },
+    {
+      "name": "Look at Socket Wrench",
+      "region": "Dream Sequence #1",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Look at Mom's Purse",
+      "region": "Dream Sequence #1",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Relive Williams Demise",
+      "region": "Dream Sequence #1",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "region": "School Campus",
+      "name": "Yes/No to Eliot",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Listen to Pisshead with Skip",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Speak with Miss Grant",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Firewalk Rawks/Principal Wells Rawks",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Smoke a Cig and Ponder",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Sit on the Crate and Reflect",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Speak to Principal Wells",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Speak to Victoria",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Speak to Samantha",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Speak to Justin",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "name": "Speak to Evan",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|"
+    },
+    {
+      "region": "School Campus",
+      "name": "Begin D&D With Steph and Mikey",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6|",
+      "place_item": [
+        "Callamastia The Barbarian"
+      ]
+    },
+    {
+      "name": "Finish D&D With Steph and Mikey",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred|",
+      "place_item": [
+        "Blade Runner: Director's Cut"
+      ]
+    },
+    {
+      "name": "Stay Out/Step In",
+      "region": "School Campus",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut|"
+    },
+    {
+      "region": "School Drama Lab",
+      "name": "Peep on the Computer",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut|"
+    },
+    {
+      "name": "Comment on Flat",
+      "region": "School Drama Lab",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut|"
+    },
+    {
+      "name": "Search Rachel's Bag",
+      "region": "School Drama Lab",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:5|"
+    },
+    {
+      "region": "School Drama Lab",
+      "name": "Give Belt to Rachel",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:5| and |Rachel's Belt|"
+    },
+    {
+      "region": "School Drama Lab",
+      "name": "Halo For Rachel/Horns On Nathan",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:5| and |Rachel's Belt|"
+    },
+    {
+      "region": "Train",
+      "name": "Move Crate",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:5| and |Rachel's Belt|"
+    },
+    {
+      "name": "We Are Monsters/Everybody Lies",
+      "region": "Train",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:5| and |Rachel's Belt|"
+    },
+    {
+      "region": "Train",
+      "name": "Play 2 Truths and a Lie with Rachel",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:5| and |Rachel's Belt|",
+      "place_item_category": [
+        "Memories"
+      ]
+    },
+    {
+      "name": "Share a Moment",
+      "region": "Train",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:5| and |Rachel's Belt|",
+      "place_item_category": [
+        "Memories"
+      ]
+    },
+    {
+      "region": "Overlook",
+      "name": "Axe/Sextant",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt|"
+    },
+    {
+      "name": "Sit and Ponder",
+      "region": "Overlook",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt|"
+    },
+    {
+      "region": "Overlook",
+      "name": "Retrieve Rachel's Nail File",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt|"
+    },
+    {
+      "region": "Overlook",
+      "name": "Unscrew Plate",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt|",
+      "place_item": [
+        "Dedication Plate"
+      ]
+    },
+    {
+      "region": "Overlook",
+      "name": "Pry Open Viewfinder",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt| and |Dedication Plate|"
+    },
+    {
+      "name": "Bond with Rachel",
+      "region": "Overlook",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt| and |Dedication Plate|"
+    },
+    {
+      "name": "Steal Wine Bottle",
+      "region": "Overlook",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt| and |Dedication Plate|"
+    },
+    {
+      "region": "Junkyard",
+      "name": "A Friendship/Something More",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:8| and |Rachel's Belt| and |Dedication Plate| and |Red Wine|",
+      "place_item": [
+        "Baseball Bat"
+      ]
+    },
+    {
+      "name": "Smash Mirror",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Smash Old Monitor",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Smash Bottle",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Smash Paint",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Smash Sign",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Smash Mannequin",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Smash Box of Junk",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Smash Toolbox",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Red Skull",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "name": "Mental Breakdown",
+      "region": "Junkyard",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "region": "Dream Sequence #2",
+      "name": "Wake Up!",
+      "category": [
+        "Episode 1: Awake - Optional Graffiti"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "region": "Dream Sequence #2",
+      "name": "Speak with Dad",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:6| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|",
+      "place_item": [
+        "Memory of William"
+      ]
+    },
+    {
+      "region": "Junkyard - Night",
+      "name": "Really Wake Up",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:7| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "region": "Overlook - Night",
+      "name": "Find Rachel",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:7| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|"
+    },
+    {
+      "region": "Overlook - Night",
+      "name": "Burn It Down...",
+      "category": [
+        "Episode 1: Awake"
+      ],
+      "requires": "|Episode 1: Awake - Unlock| and |Memory of Max:5| and |Wad of Cash| and |Dime Bag| and |Chloe's Phone| and |Joyce's Purse| and |David's Keys| and |David's Socket Wrench Set| and |Memory of William:7| and |Callamastia The Barbarian| and |Elamon The Wizard| and |Duurgaron the Unscarred| and |Blade Runner: Director's Cut| and |Memory of Rachel:10| and |Rachel's Belt| and |Dedication Plate| and |Red Wine| and |Baseball Bat|",
+      "place_item": [
+        "Episode 1: Victory"
+      ]
+    },
+    {
+      "victory": true,
+      "name": "Episodes Complete",
+      "region": "Episode Victories",
+      "category": [
+        "Episode Victories"
+      ],
+      "requires": "|@Episode Completions|"
+    },
+    {
+      "name": "Episode 1 Recap",
+      "region": "Principal's Office",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "region": "Principal's Office",
+      "name": "Go Along With Rachel/Take The Blame",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "name": "Trash Homework",
+      "region": "Principal's Office",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "name": "Take Photo",
+      "region": "Principal's Office",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "region": "Principal's Office",
+      "name": "Sign Signature on Locker",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "region": "Principal's Office",
+      "name": "Trash Chemistry Book",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "name": "Trash Math Book",
+      "region": "Principal's Office",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "name": "Trash English Book",
+      "region": "Principal's Office",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "region": "Principal's Office",
+      "name": "Trash Poster",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "region": "Principal's Office",
+      "name": "Retrieve Joint",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "name": "No Care - Sequence",
+      "region": "Principal's Office",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock|"
+    },
+    {
+      "region": "Parking Lot",
+      "name": "Pot/Anarchy",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice|"
+    },
+    {
+      "name": "Speak to Eliot",
+      "region": "Parking Lot",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice|"
+    },
+    {
+      "region": "Parking Lot",
+      "name": "No/Yes to David",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice|"
+    },
+    {
+      "name": "Comply/Refuse",
+      "region": "Parking Lot",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice|"
+    },
+    {
+      "region": "Junkyard",
+      "name": "Retrieve Car Battery",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice|"
+    },
+    {
+      "region": "Junkyard",
+      "name": "Install Car Battery",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery|"
+    },
+    {
+      "name": "Cover the Rusted Floorboard",
+      "region": "Junkyard",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Floorboard Cover|"
+    },
+    {
+      "region": "Junkyard",
+      "name": "Cover Torn Seat",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Torn Seat Cover|"
+    },
+    {
+      "name": "Install Lightbulb",
+      "region": "Junkyard",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb|"
+    },
+    {
+      "region": "Junkyard",
+      "name": "Buried Treasure/Burial Ground",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery|"
+    },
+    {
+      "region": "Junkyard",
+      "name": "Mystical/Frightening",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover|"
+    },
+    {
+      "name": "Climb Up The Cabin and Ponder",
+      "region": "Junkyard",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery|"
+    },
+    {
+      "region": "Dream Sequence",
+      "name": "Hang with William",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover|"
+    },
+    {
+      "region": "Junkyard - Later",
+      "name": "Therapy with Rachel",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover|"
+    },
+    {
+      "name": "Change Into New Threads",
+      "region": "Junkyard - Later",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "name": "CHLOE WAS HERE",
+      "region": "Junkyard - Later",
+      "category": [
+        "Episode 2: Brave New World  - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "name": "Prop Up Sign",
+      "region": "Junkyard - Later",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "name": "Hang Dartboard",
+      "region": "Junkyard - Later",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "name": "Hang Tapestry",
+      "region": "Junkyard - Later",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "region": "Frank's RV",
+      "name": "Work/Home",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "name": "Use Frank's Computer",
+      "region": "Frank's RV",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "region": "Frank's RV",
+      "name": "Bag of Pot...",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "name": "Open Fridge...",
+      "region": "Frank's RV",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "region": "Frank's RV",
+      "name": "Retrieve Frank's Notebook",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag|"
+    },
+    {
+      "region": "Frank's RV",
+      "name": "Hand Over Notebook",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "name": "Let it Go/Demand an Answer",
+      "region": "Frank's RV",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "region": "Dormitories",
+      "name": "Abandon All Hope/Tempest-tossed",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "name": "Ponder at the Bench",
+      "region": "Dormitories",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "name": "Speak to Steph",
+      "region": "Dormitories",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "name": "Speak to Samuel",
+      "region": "Dormitories",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "region": "Dormitories",
+      "name": "Converse with Evan",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "region": "Dormitories",
+      "name": "Smash Sprinkler",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "region": "Dormitories",
+      "name": "Take Key's",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook|"
+    },
+    {
+      "region": "Dormitories",
+      "name": "Squirrel Peace Offering/Squirrel Gives No Fucks",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys|"
+    },
+    {
+      "name": "\"Unlock\" Dorms",
+      "region": "Dormitories",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys|"
+    },
+    {
+      "region": "Dormitories",
+      "name": "Backtalk to Skip",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys|"
+    },
+    {
+      "region": "Dormitories",
+      "name": "Actually Unlock Dorms",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys|"
+    },
+    {
+      "region": "Boy's Dormitories",
+      "name": "Enter Eliot's Room",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys|"
+    },
+    {
+      "name": "Find... Stalker Poems...",
+      "region": "Boy's Dormitories",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys|"
+    },
+    {
+      "region": "Boy's Dormitories",
+      "name": "Collect the Money",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227|",
+      "place_item": [
+        "Money Envelop"
+      ]
+    },
+    {
+      "region": "Boy's Dormitories",
+      "name": "Stay With Mikey/Give Damon The Money",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Boy's Dormitories",
+      "name": "Creeper/Poet",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "Play with Lightboard",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "Talk with Mr. Keaton",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "\"Speak\" with Dana",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "Speak to Hayden",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "Witness Nathan's Dad Being a Douche",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "Speak to Samantha",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "Find the Pills ",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "region": "Campus - Backstage",
+      "name": "Swap Cups/Tell Rachel",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop|"
+    },
+    {
+      "name": "Play in The Tempest",
+      "region": "The Tempest",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit|"
+    },
+    {
+      "region": "Neighborhood",
+      "name": "Trance Around with Rachel",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit|"
+    },
+    {
+      "name": "Kiss Rachel/Have Her Bracelet/Tattoo",
+      "region": "Neighborhood",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet|"
+    },
+    {
+      "region": "Amber House",
+      "name": "Speak to James",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet|"
+    },
+    {
+      "name": "Sit in Recliner",
+      "region": "Amber House",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet|"
+    },
+    {
+      "name": "Set The Plates",
+      "region": "Amber House",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates|"
+    },
+    {
+      "region": "Amber House",
+      "name": "What Does Mr. Amber Want to Drink?",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates|"
+    },
+    {
+      "region": "Amber House",
+      "name": "Set Glass",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates| and |Glass|"
+    },
+    {
+      "name": "\"Improve\" Crossword",
+      "region": "Amber House",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet|"
+    },
+    {
+      "region": "Amber House",
+      "name": "Frakenstein/Dracula",
+      "category": [
+        "Episode 2: Brave New World - Optional Graffiti"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates| and |Glass|"
+    },
+    {
+      "region": "Amber House",
+      "name": "Light Candles",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates| and |Glass|"
+    },
+    {
+      "name": "Share a... \"Nice\" Dinner",
+      "region": "Amber House",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates| and |Glass|"
+    },
+    {
+      "name": "Calm Rachel/Attack James",
+      "region": "Amber House",
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates| and |Glass|"
+    },
+    {
+      "region": "Episode Victories",
+      "name": "Episode 2 Victory",
+      "victory": true,
+      "category": [
+        "Episode 2: Brave New World"
+      ],
+      "requires": "|Episode 2 Unlock| and |Expelled/Suspension Notice| and |Car Battery| and |Colored Bulb| and |Torn Seat Cover| and |Floorboard Cover| and |Rachel's Duffel Bag| and |Frank's Notebook| and |Samuel's Keys| and |Padlock Combination 1227| and |Money Envelop| and |Ariel Outfit| and |Rachel's Bracelet| and |Plates| and |Glass|",
+      "place_item": [
+        "Episode 2 Victory"
+      ]
+    }
+  ]
+}
